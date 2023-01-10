@@ -4,7 +4,7 @@
 
 @layer base {
   mark {
-    @apply bg-gray-200 px-1 py-0.5 rounded-md shadow-md;
+    @apply bg-gray-50 px-2 py-1 rounded-md shadow-md border-solid border-2 border-gray-200;
   }
 }
 
